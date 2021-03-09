@@ -70,6 +70,8 @@ __Universidade de Trás-os-Montes e Alto Douro__
 
 `2016-2019`
 __Escola Secundária Eça de Queiroz__
+
+
 Best Portuguese Public Highschool in 2018
 
 <!-- ### Footer
