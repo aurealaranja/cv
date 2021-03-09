@@ -36,9 +36,20 @@ Interested in Algorithms, OOP and Software Engineering Methodologies.
  - Data Structures and Algorithms 
  - Databases 
  - Data Communication
+ 
 
 ### Proficiency
- - programação &#9733;&#9733;&#9734;
+
+ - C  &#9733;&#9733;&#9733;&#9734;&#9734;
+ - C++  &#9733;&#9733;&#9733;&#9734;&#9734;
+ - Python  &#9733;&#9734;&#9734;&#9734;&#9734;
+ - C#  &#9733;&#9734;&#9734;&#9734;&#9734;
+ - SQL  &#9733;&#9734;&#9734;&#9734;&#9734;
+ - Markdown  &#9733;&#9733;&#9733;&#9734;&#9734;
+ - Git  &#9733;&#9733;&#9734;&#9734;&#9734;
+ - Team leading  &#9733;&#9733;&#9733;&#9733;&#9734;
+ - UML  &#9733;&#9733;&#9733;&#9733;&#9734;
+ - Collaborative work  - SQL &#9733;&#9733;&#9733;&#9733;&#9733;
 
 
 ## Other Interests and Projects
