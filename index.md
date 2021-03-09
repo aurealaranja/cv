@@ -44,17 +44,14 @@ __Founding and managing the [TugaPride](http://tugapride.com/) project__
   - Founder and presenter
   - Development of the website
 
-
 __Traveling__
   - Interrail through Europe by myself when I was 18
   - Visiting many countries in Europe, Asia and Africa
   - Part of the crew of the ship [UAM Creoula](https://en.wikipedia.org/wiki/UAM_Creoula) for one week (Lisbon - Berlengas - Oporto)
 
-
  __12 years of Contemporany Dance with multiple live presentations and exams__
    - Responsible for choreographing live acts
    - Ballerina 
-
 
  __Multiple years attending [Universidade Júnior](https://universidadejunior.up.pt/)__
    - Theater and preforming arts
@@ -65,12 +62,13 @@ __Traveling__
 ## Education
 
 `2019 - now`
-__Universidade de Trás-os-Montes e Alto Douro__
+__Software Enginnering BSc__
+
+[Universidade de Trás-os-Montes e Alto Douro](https://www.utad.pt/estudar/en/cursos/informatics-engineering/), Portugal. 
 
 
 `2016-2019`
 __Escola Secundária Eça de Queiroz__
-
 
 Best Portuguese Public Highschool in 2018
 
