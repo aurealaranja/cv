@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Áurea Laranja's CV
+title: Áurea Laranja's
 ---
 # Áurea Laranja
 Software Engineering student. 
@@ -12,13 +12,10 @@ Software Engineering student.
 </div>
 
 
-## Currently - Software Enginnering BSc at UTAD
+## Software Enginnering student at UTAD
 
-Second year student of [Software Engineering at UTAD](https://www.utad.pt/estudar/en/cursos/informatics-engineering/), Portugal. 
-
-Interested in Algorithms, OOP and Software Engineering Methodologies.
-
-
+**Second year student of [Software Engineering BSc at UTAD](https://www.utad.pt/estudar/en/cursos/informatics-engineering/), Portugal.   
+Interested in Algorithms, OOP and Software Engineering Methodologies.**
 
 
 ### Relevant Courses
@@ -41,16 +38,19 @@ Interested in Algorithms, OOP and Software Engineering Methodologies.
 
 ### Proficiency
 
- - C                           &#9733;&#9733;&#9733;&#9734;&#9734;
- - C++                         &#9733;&#9733;&#9733;&#9733;&#9734;
- - Python                      &#9733;&#9734;&#9734;&#9734;&#9734;
- - C#                          &#9733;&#9733;&#9734;&#9734;&#9734;
- - SQL                         &#9733;&#9733;&#9734;&#9734;&#9734;
- - Markdown                    &#9733;&#9733;&#9733;&#9734;&#9734;
- - Git                         &#9733;&#9733;&#9733;&#9734;&#9734;
- - Team leading                &#9733;&#9733;&#9733;&#9733;&#9734;
- - UML                         &#9733;&#9733;&#9733;&#9733;&#9734;
- - Collaborative work          &#9733;&#9733;&#9733;&#9733;&#9734;
+
+| <!-- -->  | <!-- --> |
+| --------------------   | ---------------------------------- |
+| **C**                  | &#9733;&#9733;&#9733;&#9734;&#9734;|
+| **C++**                | &#9733;&#9733;&#9733;&#9733;&#9734;|
+| **Python**             | &#9733;&#9734;&#9734;&#9734;&#9734;|
+| **C#**                 | &#9733;&#9733;&#9734;&#9734;&#9734;|
+| **SQL**                | &#9733;&#9733;&#9734;&#9734;&#9734;|
+| **Markdown**           | &#9733;&#9733;&#9733;&#9734;&#9734;|
+| **Git**                | &#9733;&#9733;&#9733;&#9734;&#9734;|
+| **Team leading**       | &#9733;&#9733;&#9733;&#9733;&#9734;|
+| **UML**                | &#9733;&#9733;&#9733;&#9733;&#9734;|
+| **Collaborative work** | &#9733;&#9733;&#9733;&#9733;&#9734;|
 
 
 ## Other Interests and Projects
@@ -78,17 +78,15 @@ __Traveling__
 
 `2019 - now`
 __Software Enginnering BSc__
-
-[Universidade de Trás-os-Montes e Alto Douro](https://www.utad.pt/estudar/en/cursos/informatics-engineering/), Portugal. 
+- [Universidade de Trás-os-Montes e Alto Douro](https://www.utad.pt/estudar/en/cursos/informatics-engineering/), Portugal. 
 
 
 `2016 - 2019`
 __Escola Secundária Eça de Queiroz__
-
-Best Portuguese Public Highschool in 2018
+- Best Portuguese Public Highschool in 2018
 
 ## &nbsp;
 
-*Last updated: March 2021*
+<em style="font-weight: 100;font-style: italic;color: #999;font-size: 80%;">Last updated: March 2021</em>
 
 

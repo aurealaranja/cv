@@ -71,15 +71,16 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 80%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #aaa;
+	color: #777;
 }
 
 p code {
 	position: absolute;
 	left: -14%;
+	top: 10%
 }
 
 
@@ -134,10 +135,10 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: #434ba5;
 	margin-top: 3em;
 	position: relative;
-	top: 1.4em;
+	top: 1.3em;
 	text-align: right;
 	width: 20%;
 }
@@ -146,7 +147,7 @@ h3 {
 	font-size: 1em;
 	line-height: 2em; 
 	position: relative;
-	top: 1.7em;
+	top: 1.1em;
 	text-align: right;
 	width: 20%;
 }
@@ -164,7 +165,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 33%;
-	color: #aaa;
+	color: #434ba5;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
@@ -184,6 +185,16 @@ strong {
 
 #address {
 	display: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+        position: relative;
+	left: 33%;
+	width: 40%;
+	margin-bottom: 1.5em;
+	margin-top: -0.5em;
 }
 
 
