@@ -82,13 +82,13 @@ __Software Enginnering BSc__
 [Universidade de Trás-os-Montes e Alto Douro](https://www.utad.pt/estudar/en/cursos/informatics-engineering/), Portugal. 
 
 
-`2016-2019`
+`2016 - 2019`
 __Escola Secundária Eça de Queiroz__
 
 Best Portuguese Public Highschool in 2018
 
-<!-- ### Footer
+### Footer
 
-Last updated: March 2021 -->
+Last updated: March 2021
 
 
