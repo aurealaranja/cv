@@ -87,7 +87,7 @@ __Escola Secundária Eça de Queiroz__
 
 Best Portuguese Public Highschool in 2018
 
-### &nbsp;
+## &nbsp;
 
 *Last updated: March 2021*
 
