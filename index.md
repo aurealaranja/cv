@@ -38,25 +38,32 @@ Interested in Algorithms, OOP and Software Engineering Methodologies.
  - Data Communication
 
 
-## Other interests
+## Other Interests and Projects
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+- Founding and managing the [TugaPride](http://tugapride.com/) project.
+  - Founder and presenter
+  - Development of the website
+- Traveling
+  - Interrail through Europe by myself when I was 18
+  - Visiting many countries in Europe, Asia and Africa
+  - Part of the crew of the ship [UAM Creoula](https://en.wikipedia.org/wiki/UAM_Creoula) for one week (Lisbon - Berlengas - Oporto)
+ - 12 years of Contemporany Dance with multiple live presentations and exams 
+   - Responsible for choreographing live acts
+   - Ballerina 
+ - Multiple years attending [Universidade Júnior](https://universidadejunior.up.pt/)
+   - Theater and preforming arts
+   - Software Engineering
+   - Engineering Challenge
+   - Science Challenge
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019 - now`
+__Universidade de Trás-os-Montes e Alto Douro__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2016-2019`
+__Escola Secundária Eça de Queiroz__
 
 
 
