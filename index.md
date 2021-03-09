@@ -38,8 +38,7 @@ Interested in Algorithms, OOP and Software Engineering Methodologies.
  - Data Communication
 
 ### Proficiency
-
-  &blackstar;
+ - programação &#9733;&#9733;&#9733;
 
 
 ## Other Interests and Projects
