@@ -1,23 +1,37 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Áurea Laranja's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Áurea Laranja
+Software Engineering student. 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="aurealaranja@gmail.com">aurealaranja@gmail.com</a>
+| <a href="https://aurealaranja.github.io/cv/">My CV</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Second year student of [Software Engineering at UTAD](https://www.utad.pt/estudar/en/cursos/informatics-engineering/), Portugal. 
 
-### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Relevant Courses
+
+ - Procedural Programming (C language)
+ - Programming Laboratory (C language)
+ - Object Oriented Programming (C++ language)
+ - Programming Laboratory II (C++ language)
+ - Software Engineering (UML, Agile and Engineering concepts)
+ - Organizational Engineering (Systems Engineering)
+ - Compilers (yacc, lex, regex)
+ - Statistics
+ - Physics
+ - Multiplatform Programming (C#, .NET core)
+ - Programming Laboratory III (C#, Xamarin, MVC)
+ - Data Structures and Algorithms 
+ - Databases 
+ - Data Communication
 
 
 ### Research interests
