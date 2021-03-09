@@ -37,6 +37,10 @@ Interested in Algorithms, OOP and Software Engineering Methodologies.
  - Databases 
  - Data Communication
 
+### Proficiency
+
+  &blackstar;
+
 
 ## Other Interests and Projects
 
