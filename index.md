@@ -49,7 +49,7 @@ Interested in Algorithms, OOP and Software Engineering Methodologies.
  - Git  &#9733;&#9733;&#9734;&#9734;&#9734;
  - Team leading  &#9733;&#9733;&#9733;&#9733;&#9734;
  - UML  &#9733;&#9733;&#9733;&#9733;&#9734;
- - Collaborative work  - SQL &#9733;&#9733;&#9733;&#9733;&#9733;
+ - Collaborative work  &#9733;&#9733;&#9733;&#9733;&#9734;
 
 
 ## Other Interests and Projects
