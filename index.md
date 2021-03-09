@@ -11,9 +11,13 @@ Software Engineering student.
 </div>
 
 
-## Currently
+## Currently - Software Enginnering BSc at UTAD
 
 Second year student of [Software Engineering at UTAD](https://www.utad.pt/estudar/en/cursos/informatics-engineering/), Portugal. 
+
+Interested in Algorithms, OOP and Software Engineering Methodologies.
+
+
 
 
 ### Relevant Courses
@@ -34,7 +38,7 @@ Second year student of [Software Engineering at UTAD](https://www.utad.pt/estuda
  - Data Communication
 
 
-### Research interests
+## Other interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
