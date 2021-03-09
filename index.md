@@ -6,8 +6,9 @@ title: Áurea Laranja's CV
 Software Engineering student. 
 
 <div id="webaddress">
-<a href="aurealaranja@gmail.com">aurealaranja@gmail.com</a>
-| <a href="https://aurealaranja.github.io/cv/">My CV</a>
+&#128231;<a href="aurealaranja@gmail.com">aurealaranja@gmail.com</a>
+| &#9743;<a href="tel:+351938655551">+351 938655551</a>
+| &#127757;<a href="https://aurealaranja.github.io/cv/">aurealaranja.github.io/cv</a>
 </div>
 
 
@@ -41,12 +42,12 @@ Interested in Algorithms, OOP and Software Engineering Methodologies.
 ### Proficiency
 
  - C  &#9733;&#9733;&#9733;&#9734;&#9734;
- - C++  &#9733;&#9733;&#9733;&#9734;&#9734;
+ - C++  &#9733;&#9733;&#9733;&#9733;&#9734;
  - Python  &#9733;&#9734;&#9734;&#9734;&#9734;
- - C#  &#9733;&#9734;&#9734;&#9734;&#9734;
- - SQL  &#9733;&#9734;&#9734;&#9734;&#9734;
+ - C#  &#9733;&#9733;&#9734;&#9734;&#9734;
+ - SQL  &#9733;&#9733;&#9734;&#9734;&#9734;
  - Markdown  &#9733;&#9733;&#9733;&#9734;&#9734;
- - Git  &#9733;&#9733;&#9734;&#9734;&#9734;
+ - Git  &#9733;&#9733;&#9733;&#9734;&#9734;
  - Team leading  &#9733;&#9733;&#9733;&#9733;&#9734;
  - UML  &#9733;&#9733;&#9733;&#9733;&#9734;
  - Collaborative work  &#9733;&#9733;&#9733;&#9733;&#9734;
