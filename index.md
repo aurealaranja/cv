@@ -6,9 +6,9 @@ title: Áurea Laranja's CV
 Software Engineering student. 
 
 <div id="webaddress">
-&#128231;<a href="aurealaranja@gmail.com">aurealaranja@gmail.com</a>
-| &#9743;<a href="tel:+351938655551">+351 938655551</a>
-| &#127757;<a href="https://aurealaranja.github.io/cv/">aurealaranja.github.io/cv</a>
+&#128231; <a href="aurealaranja@gmail.com">aurealaranja@gmail.com</a>
+| &#9743; <a href="tel:+351938655551">+351 938655551</a>
+| &#127757; <a href="https://aurealaranja.github.io/cv/">aurealaranja.github.io/cv</a>
 </div>
 
 
