@@ -43,13 +43,19 @@ Interested in Algorithms, OOP and Software Engineering Methodologies.
 __Founding and managing the [TugaPride](http://tugapride.com/) project__
   - Founder and presenter
   - Development of the website
+
+
 __Traveling__
   - Interrail through Europe by myself when I was 18
   - Visiting many countries in Europe, Asia and Africa
   - Part of the crew of the ship [UAM Creoula](https://en.wikipedia.org/wiki/UAM_Creoula) for one week (Lisbon - Berlengas - Oporto)
+
+
  __12 years of Contemporany Dance with multiple live presentations and exams__
    - Responsible for choreographing live acts
    - Ballerina 
+
+
  __Multiple years attending [Universidade Júnior](https://universidadejunior.up.pt/)__
    - Theater and preforming arts
    - Software Engineering
