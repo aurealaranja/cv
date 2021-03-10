@@ -131,6 +131,7 @@ h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
+	margin-top: -1em;
 }
 
 h2 {
@@ -200,5 +201,17 @@ table {
 	margin-top: 0.1em;
 }
 
-
+.img-photo{
+	display: inline-block;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+	vertical-align: middle;
+	margin-left: 0.5em;
+}
 

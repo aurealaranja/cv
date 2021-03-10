@@ -2,7 +2,7 @@
 layout: cv
 title: Áurea Laranja's
 ---
-# Áurea Laranja
+# Áurea Laranja ![](photo.jpg){:class="img-photo"}
 Software Engineering student. 
 
 <div id="webaddress">
