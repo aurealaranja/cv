@@ -43,7 +43,7 @@ Interested in Algorithms, OOP and Software Engineering Methodologies.**
 | --------------------   | ---------------------------------- |
 | **C**                  | &#9733;&#9733;&#9733;&#9734;&#9734;|
 | **C++**                | &#9733;&#9733;&#9733;&#9733;&#9734;|
-| **Python**             | &#9733;&#9734;&#9734;&#9734;&#9734;|
+| **Python**             | &#9733;&#9733;&#9734;&#9734;&#9734;|
 | **C#**                 | &#9733;&#9733;&#9734;&#9734;&#9734;|
 | **SQL**                | &#9733;&#9733;&#9734;&#9734;&#9734;|
 | **Markdown**           | &#9733;&#9733;&#9733;&#9734;&#9734;|
@@ -64,15 +64,19 @@ __Traveling__
   - Visiting many countries in Europe, Asia and Africa
   - Part of the crew of the ship [UAM Creoula](https://en.wikipedia.org/wiki/UAM_Creoula) for one week (Lisbon - Berlengas - Oporto)
 
- __12 years of Contemporany Dance with multiple live presentations and exams__
-   - Responsible for choreographing live acts
-   - Ballerina 
+__12 years of Contemporany Dance with multiple live presentations and exams__
+  - Responsible for choreographing live acts
+  - Ballerina 
 
- __Multiple years attending [Universidade Júnior](https://universidadejunior.up.pt/)__
-   - Theater and preforming arts
-   - Software Engineering
-   - Engineering Challenge
-   - Science Challenge
+__Student Organizations__
+  - For 2 years I was part of the Highschool Student Organization
+  - For 2 years I was part of the Software Engineering Student Organization
+
+__Multiple years attending [Universidade Júnior](https://universidadejunior.up.pt/)__
+  - Theater and preforming arts
+  - Software Engineering
+  - Engineering Challenge
+  - Science Challenge
 
 ## Education
 
@@ -80,10 +84,13 @@ __Traveling__
 __Software Enginnering BSc__
 - [Universidade de Trás-os-Montes e Alto Douro](https://www.utad.pt/estudar/en/cursos/informatics-engineering/), Portugal. 
 
+`2021`
+__Python Programming: A Concise Introduction - Wesleyan University - Coursera__
+- [Certified](https://www.coursera.org/account/accomplishments/verify/DHW8AUD8KW2P?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) programming course on Python programming.
 
 `2016 - 2019`
 __Escola Secundária Eça de Queiroz__
-- Best Portuguese Public Highschool in 2018
+- Best Portuguese Public Highschool in 2018.
 
 ## &nbsp;
 
